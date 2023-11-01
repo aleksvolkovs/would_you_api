@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Was ist die Hauptstadt von Deutschland?"
+    },
+    {
+      "id": 2,
+      "question": "Was ist die Hauptstadt von Russland?"
+    }
+  ]
+}
