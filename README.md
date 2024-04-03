@@ -1,2 +1,4 @@
 # would_you_api
-yep
+simple api to show to my friends at Would You
+https://discord.gg/snAZcRyuPj
+https://wouldyoubot.gg
